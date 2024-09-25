@@ -47,6 +47,8 @@ public:
             cout << "\n";
         }
     }
+
+    ~DiagonalMatrix();
 };
 
 int main()
